@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/thesachin26/thesachin26/main/banner.png.png" alt="Sachin Kumar - AI Cloud Engineer" />
+  <img src="https://raw.githubusercontent.com/thesachin26/thesachin26/main/banner.png" alt="Sachin Kumar - AI Cloud Engineer" />
 </p>
 
 
